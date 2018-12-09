@@ -1,3 +1,4 @@
 setupRequired(cp_pipe)
 setupRequired(pipe_drivers)
+setupRequired(fgcmcal)
 #setupRequired()
